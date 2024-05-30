@@ -1,0 +1,145 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+		background-color: #B1D8B1;
+	
+		}
+	
+td {
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	}
+	
+a {
+	color: #993300;
+	}
+	
+a:hover {
+	color: #5C743D;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 1px solid #F4FFE4;
+	}
+	
+#navigation a {
+	color: #000000;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 20px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+#navigation a:hover {
+	background: #99CC66;
+	color:#000000;
+	}
+	
+#logo 	{
+	color: #000000;
+	letter-spacing:.2em;
+	line-height:30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	}
+
+#tagline 	{	
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 1px dashed #5C743D;
+	}
+		
+#dateformat {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	letter-spacing:.2em;
+	}
+	
+#dateformat a {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	font-weight:bold;
+	letter-spacing:.1em;
+	text-decoration:none;
+	}
+	
+#dateformat a:hover {
+	color: #F4FFE4;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	color:#000000;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	}
+	
+.pageName{
+	color: #000000;
+	line-height:26px;
+	letter-spacing:.21em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	}
+	
+.subHeader {
+	font:bold 11px Arial, Helvetica, sans-serif;
+	color: #009933;
+	line-height:22px;
+	letter-spacing:0.2em;
+	}
+
+.quote {
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #666666;
+	line-height: 22px;
+	}
+	
+.navText {
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	}
+	
+.rub {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.rub em {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+.hej {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+.hej {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+.text {
+	font-family: Tahoma, Geneva, sans-serif;
+	font: 10px;
+	font-style: normal;
+}

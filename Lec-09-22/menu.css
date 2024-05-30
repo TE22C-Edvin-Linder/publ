@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #063;
+}
+#meny{margin-left: 0; padding-left: 0; font-size: 70%;}
+#meny li{display: inline; list-style-type: none;}
+#meny a{padding: 0.25em 1em; text-decoration: none;}
+
+#meny a:link{color: #ffffff; background: #89BD66;}
+#meny a:visited{color: #ffffff; background: #89BD66;}
+#meny a:hover{background: #89BD66;}
+#meny a#current{background: #89BD66; color: #000000;}

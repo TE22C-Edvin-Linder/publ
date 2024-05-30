@@ -1,0 +1,54 @@
+/*class-span highlight span*/
+
+body
+{
+    background: papayawhip;
+    font-size: 22px;
+    border: 3px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.class-span
+{
+
+text-transform: uppercase;
+background-color: violet;
+
+}
+
+/*closed highlight span*/
+/*p span or highlight span*/
+p span
+{
+
+
+}
+
+/*closed -inherit*/
+h1,h2
+{
+    color: brown;
+}
+
+.class-style-2
+{
+    color: aquamarine;
+    background-color: aliceblue;
+
+}
+.class-style-1
+{
+    text-transform: uppercase;
+    background-color: darkgoldenrod;
+    color: crimson;
+}
+#id-style-1
+{
+    color: blue;
+    background-color: aliceblue;
+}
+
+p{
+color: darkgreen;
+
+}
